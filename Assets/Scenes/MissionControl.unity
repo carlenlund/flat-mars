@@ -20544,7 +20544,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1443746217}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: PostProcessing
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22037,7 +22037,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1534745222}
   - component: {fileID: 1534745223}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: Global Volume
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23133,7 +23133,7 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 562939842}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1593005687
+--- !u!114 &1593005691
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
